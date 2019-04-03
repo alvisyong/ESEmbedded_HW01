@@ -7,7 +7,7 @@ int multiply(int a, int b) { return a * b; }
 int divided(int a, int b) { return a / b; }
 int main()
 {
-	int a, c, k;
+	int a, c;
 	char b;
 	printf("key a Function \nEX: 1 + 1\n");
 	scanf("%i %c %i", &a, &b, &c);
