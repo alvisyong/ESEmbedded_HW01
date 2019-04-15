@@ -22,7 +22,7 @@ int main()
        }
       
 
- }
+} 
 	//IF ELSE IF
        
 /*	if (b == '+')
@@ -31,6 +31,5 @@ int main()
 		printf("%d %c %d = %d\n", a, b, c, minus(a, c));
 	else if (b == '*')
 		printf("%d %c %d = %d\n", a, b, c, multiply(a, c));
-	else if (b == '/')
-		printf("%d %c %d = %d\n", a, b, c, divided(a, c));*/
+	*/
 }
